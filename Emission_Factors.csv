@@ -1,0 +1,8 @@
+Activity,Pollutant,EF,Unit,Source
+Cooking (China, ESSD 2023),VOC,1.32,g/kg,ESSD 2023
+Cooking (Greece, Atmosphere 2019),PM2.5,1.0,g/kg,Atmosphere 2019
+Gas Cooking (Tehran 2021),CO,0.126,ug/J,Tehran 2021
+Gas Cooking (Tehran 2021),NO2,0.0092,ug/J,Tehran 2021
+Gas Cooking (Tehran 2021),HCHO,0.00085,ug/J,Tehran 2021
+Tobacco Smoking (Club),PM2.5,0.3,mg/h,Tobacco 2010
+Straw Burning (China, 2008),PAH,12.5,mg/kg,PAH 2008
